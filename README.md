@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on completing my Google Data Analytics Course Capstone Project.
-- 🌱 I’m currently learning coding with R Language in R Studio as well as Tableua for visualizations. 
-- 👯 I’m looking to collaborate on Python! This is the next programming language I am going to learn via Coursera. 
+- 🔭 I have completed my Google Data Analytics Course Capstone Project.
+- 🌱 I have learned coding with R Language in R Studio as well as Tableau for visualizations. 
+- 👯 I have completed an introductory course in Python and look forward to collaborating further.
 - 🤔 I’m looking for help with any coding issues as they arise. 
 - 💬 Ask me about me or reach out to me anytime!
 - 📫 How to reach me: ashirdill@gmail.com
